@@ -1,0 +1,6 @@
+framework module Pods_Task_IntrotuceTests {
+  umbrella header "Pods-Task_IntrotuceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
